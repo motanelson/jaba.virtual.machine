@@ -1,1 +1,1 @@
-load int 10 h function
+jabas virtual machine
